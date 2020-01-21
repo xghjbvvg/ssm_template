@@ -28,7 +28,7 @@
   <artifactId>ssm_tempalte</artifactId>
   <version>1.0-SNAPSHOT</version>
   <properties>
-    <spring.version>5.1.7.RELEASE</spring.version>
+    <spring.version>5.2.3.RELEASE</spring.version>
     <mybatis.version>3.2.1</mybatis.version>
   </properties>
 
